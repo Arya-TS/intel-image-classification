@@ -64,10 +64,11 @@ The Streamlit UI allows users to:
 ## 📂 Project Structure
 
 Intel Image Classification/
-├── app.py                     # Streamlit application
-├── intel-image.ipynb           # Model training notebook
-├── intel_cnn_model.keras       # Trained CNN model
-├── requirements.txt            # Dependencies
+│
+├── app.py # Streamlit application
+├── intel-image.ipynb # Model training notebook
+├── intel_cnn_model.keras # Trained CNN model
+├── requirements.txt # Dependencies
 ├── .gitignore
 └── README.md
 
