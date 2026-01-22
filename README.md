@@ -63,14 +63,16 @@ The Streamlit UI allows users to:
 
 ⚙️ Installation & Usage
 1. Clone the repository
+```
+   git clone https://github.com/Arya-TS/intel-image-classification.git
+   cd Intel-Image-Classification
+```
 
-   ```git clone https://github.com/Arya-TS/intel-image-classification.git cd Intel-Image-Classification```
-
-2. Install dependencies
+3. Install dependencies
 
    pip install -r requirements.txt
 
-3. Run the Streamlit app
+4. Run the Streamlit app
 
    streamlit run app.py
 
