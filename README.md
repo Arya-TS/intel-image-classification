@@ -64,8 +64,7 @@ The Streamlit UI allows users to:
 ⚙️ Installation & Usage
 1. Clone the repository
 
-   ```git clone https://github.com/Arya-TS/intel-image-classification.git
-   cd Intel-Image-Classification```
+   ```git clone https://github.com/Arya-TS/intel-image-classification.git cd Intel-Image-Classification```
 
 2. Install dependencies
 
