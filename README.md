@@ -96,3 +96,4 @@ The Streamlit UI allows users to:
 - TensorFlow & Keras
 - End-to-end machine learning workflows
 - Model deployment using Streamlit
+- App link - https://intel-image-classification-gzscreexzm2wdu3ipnqiyy.streamlit.app/
